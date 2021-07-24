@@ -10,8 +10,8 @@ h5,
 p {
   font-family: "Poppins", sans-serif;
 }
-p{
-    color:hsl(229, 6%, 66%);
+p {
+  color: hsl(229, 6%, 66%);
 }
 .title {
   font-weight: 200;
@@ -23,4 +23,3 @@ p{
 .headline {
   font-weight: 600;
 }
-
