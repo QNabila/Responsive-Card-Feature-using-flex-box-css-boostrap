@@ -9,9 +9,7 @@ h3,
 h5,
 p {
   font-family: "Poppins", sans-serif;
-}
-p{
-    color:hsl(229, 6%, 66%)
+  color:hsl(229, 6%, 66%);
 }
 .title {
   font-weight: 200;
